@@ -55,6 +55,4 @@ I am a passionate and dedicated Computer Science Engineering student at **Presid
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namratha1305&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Namratha1305&theme=dracula" alt="namratha" />
-</p>
+
